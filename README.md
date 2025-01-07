@@ -7,20 +7,20 @@ Welcome to the **Rental Platform** repository! This project is a web application
 
 ## Features
 
-- **User Authentication**: Secure user login and registration.
-- **Item Listings**: Browse and search for items available for rent.
-- **Rental Management**: Manage rental requests and transactions.
-- **Payment Integration**: Secure payments through integrated payment gateways.
-- **Admin Dashboard**: Manage users, items, and rentals.
+- ** User Authentication**: Secure user login and registration.
+- ** Item Listings**: Browse and search for items available for rent.
+- ** Rental Management**: Manage rental requests and transactions.
+- ** Payment Integration**: Secure payments through integrated payment gateways.
+- ** Admin Dashboard**: Manage users, items, and rentals.
 
 ## Tech Stack
 
-- **Frontend**: React (with Vite for development)
-- **Backend**: Django REST Framework (DRF)
-- **Styling**: CSS Modules, Styled Components
-- **Routing**: React Router
-- **State Management**: Context API (or Redux)
-- **Testing**: Jest, React Testing Library
+- ** Frontend**: React (with Vite for development)
+- ** Backend**: Django REST Framework (DRF)
+- ** Styling**: CSS Modules, Styled Components
+- ** Routing**: React Router
+- ** State Management**: Context API (or Redux)
+- ** Testing**: Jest, React Testing Library
 
 ## Getting Started
 
@@ -101,5 +101,3 @@ For questions or support, please open an issue in this repository or reach out t
 
 Thank you for visiting the **Rental Platform** project! We hope this application provides an excellent experience for all users.
 ```
-
-This `README.md` provides an overview of the project, how to set it up, and how to contribute, ensuring clarity for users and developers interested in the project.
